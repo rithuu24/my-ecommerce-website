@@ -23,7 +23,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project is from Eldics Pro and it's intended to educate you.
+This project is from Eldics Pro 
 
 sql queries used:
 
